@@ -33,7 +33,7 @@ Also, this script transfers data from your old database(sqlite3) to the new data
 Just run this command on the server that marzban have been installed:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/mobinalipour/marzban-to-mysql/main/marzban-to-mysql.sh)
+bash <(curl -s https://raw.githubusercontent.com/ackn0wl3dgm3nt/marzban-to-mysql/main/marzban-to-mysql.sh)
 ```
     
 ## Notes
